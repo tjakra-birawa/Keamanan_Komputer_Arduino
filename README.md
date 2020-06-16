@@ -20,5 +20,5 @@ Change-log:
 
 - V0.01 (penerapan caesar cipher melalui variabel)
 
-# Polybius Cipher
+### Polybius Cipher
 Sebuah metode keamanan paling sederhana dimana metode ini digunakan dalam bentuk menggeser huruf yang inginkan sejumlah [X] menjadi keinginan sang pengirim. Dalam hal ini bisa berupa penggeseran sebesar 1 hingga tak terhingga.
