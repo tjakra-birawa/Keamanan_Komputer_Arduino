@@ -3,7 +3,7 @@ Halo warganet Github, berikut saya Tjakra ingin menaruh hasil dokumentasi pembel
 Mungkin pada beberapa kode program terdapat kesalahan ataupun kurang efisien, tapi silahkan dilihat hasil pemrogramannya ~
 
 # Caesar Cipher
-Sebuah metode keamanan paling sederhana dimana metode ini digunakan dalam bentuk menggeser huruf yang inginkan sejumlah [X] menjadi keinginan sang pengirim. Dalam hal ini bisa berupa penggeseran sebesar 1 hingga tak terhingga.
+Sebuah metode keamanan paling sederhana dimana metode ini digunakan dalam bentuk menggeser huruf yang inginkan sejumlah [X] menjadi keinginan sang pengirim. Berikut merupakan contoh maksudnya:
 
 PT	a	b	c	d	e	f	g	h	i	j	k	l	m	n	o	p	q	r	s	t	u	v
 
