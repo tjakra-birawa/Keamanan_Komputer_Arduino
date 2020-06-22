@@ -12,7 +12,7 @@ void setup()                                                                    
 
   /*COPYRIGHT*/
   Serial.println ("Cakra Bhirawa - Keamanan Komputer SP A");                                //mencetak pada serial monitor
-  Serial.println ("");                                                                      //mencetak pada serial monitor
+  Serial.println (" ");                                                                      //mencetak pada serial monitor
   
   /*EKSEKUSI ENKRIPSI*/
   Serial.print("Enkripsi Caesar kalimat '");                                                //mencetak pada serial monitor
