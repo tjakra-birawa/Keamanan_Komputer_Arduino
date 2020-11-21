@@ -1,6 +1,6 @@
-## Classical Crypto I
+## Classical Crypto Ii
 
-### Caesar Cipher
+### ADFGVX Cipher
 
 ![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/adfgvx.gif?raw=true)
 
