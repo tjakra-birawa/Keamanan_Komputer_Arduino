@@ -1,6 +1,6 @@
 ## Classical Crypto II
 
-### Columnar Cipher
+### Columnar Transposition
 
 ![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/columnar.gif?raw=true)
 
