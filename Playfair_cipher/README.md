@@ -1,8 +1,8 @@
 ## Classical Crypto II
 
-### DPlayfair cipher
+### Playfair cipher
 
-![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/doublecolumnar.gif?raw=true)
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/playfair.gif?raw=true)
 
 Metode kriptografi dengan cara serupa juga tapi memasukkan keyword dalam tabel dan menghilangkan Sebagian keyword tersebut ataupun tidak. Setelah dilakukan hal tersebut lakukan pembacaan sela sela diantara baris dengan baris dan kolom dengan kolom.
 b.	Untuk melihat contoh mari lihat tabel berikut:
