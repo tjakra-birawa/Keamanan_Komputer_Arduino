@@ -1,4 +1,4 @@
-## Classical Crypto Ii
+## Classical Crypto II
 
 ### ADFGVX Cipher
 
