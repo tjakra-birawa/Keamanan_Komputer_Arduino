@@ -1,5 +1,7 @@
 ## Classical Crypto I
 ### Polybius Cipher
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/polybius.gif?raw=true)
+
 Sebuah metode keamanan sederhana dimana menggunakan enkripsi dari tabel 5x5 yang berisikan huruf A-Z. Metode ini nantinya akan membaca letak baris dan kolom setiap huruf dari plaintext, dimana untuk tabel tersendiri dapat dibuat berdasarkan keinginan pengguna karena nantinya ada 1 huruf yang harus digabung.
 
 |     | 1   | 2   | 3   | 4   | 5   | 
