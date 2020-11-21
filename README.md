@@ -13,7 +13,7 @@ Sebuah metode keamanan paling sederhana dimana metode ini digunakan dalam bentuk
 Sebuah metode keamanan sederhana dimana menggunakan enkripsi dari tabel 5x5 yang berisikan huruf A-Z. Metode ini nantinya akan **membaca letak baris dan kolom setiap huruf dari plaintext**, dimana untuk tabel tersendiri dapat dibuat berdasarkan keinginan pengguna karena nantinya ada 1 huruf yang harus digabung.
 
 ### Vigerene Cipher
-![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/vigerene.gif?raw=true)
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/vigenere.gif?raw=true)
 Sebuah metode keamanan selanjutnya dimana mengembangkan lebih lanjut dari caesar cipher, namun **menyatakan segala probibilitas yang kemungkinan terjadi** dalam satu tabel. Nantinya akan digunakan sebuah key sebagai referensi utama dalam pengecekan setiap kata di plaintext.
 
 ### BIFID Cipher
