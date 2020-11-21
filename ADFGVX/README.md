@@ -19,9 +19,9 @@ Tabel ADFGVX adalah tetap dan tidak akan berubah sehingga pada awalan hanya ting
 
 lalu dapat kita lihat jika posisi kata berikut akan seperti ini:
 
-**H** = **DX** |
-**I** = **VG** |
-**HIMEKOINABA** = **DXVGGXXDFDDGVGAXDVFFDV**
+H = **DX** |
+I = **VG** |
+HIMEKOINABA = **DXVGGXXDFDDGVGAXDVFFDV**
 
 Dari tabel tersebut masukkanlah plaintext dan kemudian *plaintext* tersebut akan mendapatkan kata baru yang berupa kalimat dari ADFGVX
 
