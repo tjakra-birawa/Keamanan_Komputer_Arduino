@@ -1,5 +1,6 @@
 ## Classical Crypto I
 ### BIFID Cipher
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/bifid.gif?raw=true)
 Sebuah metode keamanan dimana mengembangkan konsep Polybius cipher dengan menggabungkan sesama baris dan baris ataupun baris dan kolom kemudian dikonversikan kembali dalam bentuk huruf baru berdasarkan nilai tersebut.
 
 |     | 1   | 2   | 3   | 4   | 5   | 
