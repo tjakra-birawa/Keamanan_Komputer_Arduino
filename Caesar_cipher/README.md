@@ -1,6 +1,10 @@
 ## Classical Crypto I
 
 ### Caesar Cipher
+
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/caesar.gif?raw=true)
+
+
 Sebuah metode keamanan paling sederhana dimana metode ini digunakan dalam bentuk **menggeser huruf** yang inginkan sejumlah [X] menjadi keinginan sang pengirim. Berikut merupakan contoh maksudnya:
 
 
