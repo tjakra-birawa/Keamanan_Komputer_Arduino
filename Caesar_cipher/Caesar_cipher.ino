@@ -1,7 +1,7 @@
 /* VARIABEL GLOBAL */
 char plaintext[]= {"HIMEKOINABA"};                                                           //membuat variabel global char bernama plaintext (harap gunakan teks kecil, bila gunakan kapital sesuaikan kembali lokasi tabel ascii atau ubah saja jadi 'A' atau 'a')
 char CT[sizeof(plaintext)];                                                                 //membuat variabel global char dinamis bernama CT berdasarkan ukuran variabel plaintext
-char ciphertext[]= {"KLPHNRLQDED"};                                                         //membuat variabel global char bernama ciphertext (harap gunakan teks kecil, bila gunakan kapital sesuaikan kembali lokasi tabel ascii atau ubah saja jadi 'A' atau 'a')
+char ciphertext[]= {"VWASYCWBOPO"};                                                         //membuat variabel global char bernama ciphertext (harap gunakan teks kecil, bila gunakan kapital sesuaikan kembali lokasi tabel ascii atau ubah saja jadi 'A' atau 'a')
 char PT[sizeof(ciphertext)];                                                                //membuat variabel global char dinamis bernama PT berdasarkan ukuran variabel ciphertext
 int pergeseran = 3;                                                                         //membuat variabel global int bernama pergeseran dengan nilai 3
 
