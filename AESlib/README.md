@@ -1,1 +1,1 @@
-
+*catatan untuk pemrograman ini saya masih belum memahami secara penuh karena ini merupakan full mengikuti contoh AESlib yang ada, disarankan mencari referensi lainnya atau membantu saya mendokumentasi ini lebih lanjut (bila ada waktu)
