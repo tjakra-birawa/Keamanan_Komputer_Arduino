@@ -1,8 +1,8 @@
 ## Classical Crypto II
 
-### ADFGVX Cipher
+### Double Columnar Transposition
 
-![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/adfgvx.gif?raw=true)
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/doublecolumnar.gif?raw=true)
 
 Sama seperti **columnar transposition** sebelumnya, kali ini tapi diulangi kembali sistem sebelumnya dimana pertama mencari kata *plaintext* apa yang diinginkan lalu mencari *keyword* yang diinginkan dan mengurutkannya berdasarkan alfabet. Terakhir ia akan mengulang kembali percobaan diatas tapi hasil dari *ciphertext*nya lah yang menjadi *plaintext* dan selanjutnya pilihlah *keyword* baru sebagai rujukan.
 
