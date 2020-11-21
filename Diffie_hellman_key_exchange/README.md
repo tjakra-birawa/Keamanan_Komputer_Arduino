@@ -1,10 +1,10 @@
 ## Key Exchange
 
-### Deffie-Hellman
+### Diffie-Hellman
 
-![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/deffiehellman.gif?raw=true)
+![](https://github.com/tjakra-birawa/Keamanan_Komputer_Arduino/blob/master/Dokumentasi/diffiehellman.gif?raw=true)
 
-Deffie-hellman adalah key-excahnge dengan rumus
+Diffie-hellman adalah key-excahnge dengan rumus
 
 **y = g^x mod p**
 
